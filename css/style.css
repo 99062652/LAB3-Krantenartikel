@@ -6,5 +6,6 @@ body{
 	background-color: dimgray;
 	color: black;
 	}
-
-
+img.left{
+	float: top left;
+}
